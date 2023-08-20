@@ -10,4 +10,4 @@ repositório para armazenar resumos de GIt e GITHUB
 |Coluna 1| Coluna 2|
 |---------| ----------|
 
-``` linhas de codigos utilianco ` ` `
+``` linhas de codigos utilizando atalho de tres crases juntas ` ` `
