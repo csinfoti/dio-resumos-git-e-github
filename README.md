@@ -11,3 +11,5 @@ repositório para armazenar resumos de GIt e GITHUB
 |---------| ----------|
 
 ``` linhas de codigos utilizando atalho de tres crases juntas ` ` `
+
+alterando via WEB
